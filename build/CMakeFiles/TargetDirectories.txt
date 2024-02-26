@@ -1,0 +1,4 @@
+/Users/oleg/desktop/c++/contest_2/project1/build/CMakeFiles/LibGuns.dir
+/Users/oleg/desktop/c++/contest_2/project1/build/CMakeFiles/MyProj.dir
+/Users/oleg/desktop/c++/contest_2/project1/build/CMakeFiles/edit_cache.dir
+/Users/oleg/desktop/c++/contest_2/project1/build/CMakeFiles/rebuild_cache.dir
